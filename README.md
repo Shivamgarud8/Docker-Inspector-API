@@ -94,5 +94,7 @@ cd Docker-Health-Guard
 💼 *Automating deployments, one pipeline at a time!*  
 🌐 [GitHub Profile](https://github.com/Shivamgarud8)
 🌐 [Medium blog](https://medium.com/@shivam.garud2011)
-🌐[Medium blog](https://medium.com/@shivam.garud2011)
+🌐 [Linkedin](https://www.linkedin.com/in/shivam-garud/)
+🌐 [PortFolio](https://shivam-garud.vercel.app/)
+
 
